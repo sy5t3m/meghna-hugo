@@ -7,6 +7,6 @@ cta:
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur
     odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum.
   button:
-    enable: true
+    enable: false
     label: Start a project with us
     link: "#contact"
